@@ -1,5 +1,8 @@
 # Hierarchical-Metric-Semantic-SLAM-Methods-for-Architectural-Mapping
 
+If examining the project, please use the code supplied in supporting_files.zip through submission rather than this repo. As the zip already contains graphs, hydra_ws and model referenced at the end of this README.
+---
+
 This project is made up of two repositories
 
 ### eval_repo
