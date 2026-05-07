@@ -1,0 +1,13 @@
+---
+segmentation:
+  type: fastsam
+  confidence: 0.35
+  iou: 0.65
+  output_size: 640
+refinement:
+  dilate_masks: true
+clip_model:
+  type: clip
+  model_name: ViT-L/14
+use_dense: false
+dense_ratio: 0.9
